@@ -27,7 +27,7 @@ export default function Index({ navigate }) {
               View Projects →
             </button>
             <a
-              href="https://drive.google.com/file/d/1zw5YeLX2EhhgtkeLnjTxNkNRLe1iuVEH/view?usp=sharing"
+              href="https://drive.google.com/file/d/1DFSlspIXKxO0c2abgjr2-MDE517_Lo8v/view?usp=sharing"
               target="_blank"
               rel="noreferrer"
               className="btn btn-outline"
