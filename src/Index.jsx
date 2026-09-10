@@ -10,7 +10,7 @@ export default function Index({ navigate }) {
         <div className="hero-content">
           <span className="hero-label fade-up fade-up-1">
             <span className="label-dot" />
-            FullStack Developer · Chennai
+            FullStack Developer · Bengaluru
           </span>
 
           <h1 className="hero-title fade-up fade-up-2">
@@ -132,7 +132,7 @@ export default function Index({ navigate }) {
     <span className="badge-icon">📍</span>
     <div>
       <p className="badge-label">Location</p>
-      <p className="badge-value">Chennai</p>
+      <p className="badge-value">Bengaluru</p>
     </div>
   </div>
 </div>
