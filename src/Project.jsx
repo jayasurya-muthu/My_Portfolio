@@ -33,7 +33,7 @@ const projects = [
     title: "Global Agriculture Product",
     tags: ["React.js", "useState", "useEffect", "Vite", "CSS", "Bootstrap", "JavaScript", "HTML", "MySQL", "SpringBoot", "REST APIs", "Hibernate", "Figma", "Postman", "Git", "GitHub", "VS Code", "Vercel", "npm"],
     desc: "A responsive React application for marketing agricultural products with product listing, search, filtering, and add-to-cart. Built with React hooks for efficient state management.",
-    link: "https://agriculture-application.vercel.app/",
+    link: "https://youtu.be/z7qfsTKmpOs",
     year: "2025",
     type: "Web App",
   },
