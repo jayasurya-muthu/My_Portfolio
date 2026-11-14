@@ -3,8 +3,25 @@ import "./About.css";
 const stats = [
   { num: "6+", lbl: "Skills Mastered" },
   { num: "3+", lbl: "Live Projects" },
-  { num: "98%", lbl: "HTML Proficiency" },
-  { num: "97%", lbl: "React Proficiency" },
+  { num: "100%", lbl: "HTML Proficiency" },
+  { num: "100%", lbl: "React Proficiency" },
+  { num: "100%", lbl: "Java Proficiency" },
+  { num: "97%", lbl: "Spring Boot Proficiency" },
+  { num: "97%", lbl: "Hibernate Proficiency" },
+  { num: "100%", lbl: "MySQL Proficiency" },
+  { num: "99%", lbl: "REST API Proficiency" },
+  { num: "96%", lbl: "Bootstrap Proficiency" },
+  { num: "100%", lbl: "CSS Proficiency" },
+  { num: "100%", lbl: "JavaScript Proficiency" },
+  { num: "100%", lbl: "Git Proficiency" },
+  { num: "97%", lbl: "GitHub Proficiency" },
+  { num: "100%", lbl: "VS Code Proficiency" },
+  { num: "100%", lbl: "Vercel Proficiency" },
+  { num: "99%", lbl: "Figma Proficiency" },
+  { num: "97%", lbl: "Postman Proficiency" },
+  { num: "100%", lbl: "Vite Proficiency" },
+  { num: "100%", lbl: "npm Proficiency" },
+  { num: "98%", lbl: "Microservices Proficiency" },
 ];
 
 const techStack = ["HTML5", "CSS3", "JavaScript", "Bootstrap", "React.js", "Vite", "Git", "GitHub", "VS Code", "Vercel", "MySQL", "Java", "Spring Boot", "Hibernate", "REST APIs", "Figma", "Postman"];
@@ -75,7 +92,7 @@ export default function About({ navigate }) {
 
           <div className="about-btns">
             <a
-              href="https://drive.google.com/file/d/1DFSlspIXKxO0c2abgjr2-MDE517_Lo8v/view?usp=sharing"
+              href="https://drive.google.com/file/d/1saNjAL1QJHdglkydq0rax8wn4vXn4Bg-/view?usp=sharing"
               target="_blank"
               rel="noreferrer"
               className="btn btn-primary"

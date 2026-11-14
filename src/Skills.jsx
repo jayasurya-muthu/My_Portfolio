@@ -11,6 +11,7 @@ const skills = [
   { name: "MySQL",           pct: 98, icon: "🐬",  color: "#e0f7f4", desc:"Database design, queries, joins, CRUD operations"},
   { name: "Java",            pct: 98, icon: "☕", color: "#f0e8ff", desc: "Object-oriented programming, data structures" },
   { name: "SpringBoot",      pct: 98, icon: "🌱", color: "#e8f5e9", desc: "RESTful APIs, dependency injection, MVC" },
+  { name: "Microservices",   pct: 97, icon: "🛠️", color: "#fff4e0", desc: "Service decomposition, inter-service communication" },
 ];
 
 function SkillCard({ skill, index }) {

@@ -19,7 +19,7 @@ export default function Index({ navigate }) {
           </h1>
 
           <p className="hero-bio fade-up fade-up-3">
-           I am a <strong>Java Full Stack Developer</strong> passionate about building scalable, responsive, and secure web applications. I specialize in Java, Spring Boot, Spring MVC, Spring Data JPA, Hibernate, REST APIs, MySQL, HTML, CSS, Bootstrap, JavaScript, and React.js to develop complete end-to-end solutions with clean, maintainable code.
+           I am a <strong>Java Full Stack Developer</strong> passionate about building scalable, responsive, and secure web applications. I specialize in Java, Spring Boot, Spring MVC, Spring Data JPA, Hibernate, REST APIs, MySQL, HTML, CSS, Bootstrap, JavaScript, Microservices and React.js to develop complete end-to-end solutions with clean, maintainable code.
           </p>
 
           <div className="hero-btns fade-up fade-up-4">
@@ -27,7 +27,7 @@ export default function Index({ navigate }) {
               View Projects →
             </button>
             <a
-              href="https://drive.google.com/file/d/1DFSlspIXKxO0c2abgjr2-MDE517_Lo8v/view?usp=sharing"
+              href="https://drive.google.com/file/d/1saNjAL1QJHdglkydq0rax8wn4vXn4Bg-/view?usp=sharing"
               target="_blank"
               rel="noreferrer"
               className="btn btn-outline"
@@ -96,6 +96,11 @@ export default function Index({ navigate }) {
               <span className="stat-num">98%</span>
               <span className="stat-lbl">SpringBoot</span>
             </div>
+            <div className="stat-div" />
+             <div className="stat">
+              <span className="stat-num">97%</span>
+              <span className="stat-lbl">Microservices</span>
+            </div>
           </div>
           
         </div>
@@ -132,7 +137,7 @@ export default function Index({ navigate }) {
     <span className="badge-icon">📍</span>
     <div>
       <p className="badge-label">Location</p>
-      <p className="badge-value">Bengaluru</p>
+      <p className="badge-value">India</p>
     </div>
   </div>
 </div>

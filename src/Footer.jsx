@@ -29,7 +29,7 @@ export default function Footer({ navigate }) {
             <a href="https://github.com/" target="_blank" rel="noreferrer" className="footer-link">GitHub ↗</a>
             <a href="https://www.linkedin.com/feed/" target="_blank" rel="noreferrer" className="footer-link">LinkedIn ↗</a>
             <a href="mailto:jayasuriyamuthu004@gmail.com" className="footer-link">Email ↗</a>
-            <a href="https://drive.google.com/file/d/1zw5YeLX2EhhgtkeLnjTxNkNRLe1iuVEH/view?usp=sharing" target="_blank" rel="noreferrer" className="footer-link">Resume ↗</a>
+            <a href="https://drive.google.com/file/d/1saNjAL1QJHdglkydq0rax8wn4vXn4Bg-/view?usp=sharing" target="_blank" rel="noreferrer" className="footer-link">Resume ↗</a>
           </div>
         </div>
 
